@@ -28,5 +28,5 @@ Soy DevOps engineer en una fintech en México, donde estoy a cargo de la infraes
 
 ### 📫 Conectemos
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anareyna)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anareynar)
 [![Correo](https://img.shields.io/badge/Correo-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anamreynar@gmail.com)
