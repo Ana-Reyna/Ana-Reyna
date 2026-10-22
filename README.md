@@ -1,20 +1,32 @@
-<h1 align="center">Hi 👋, I'm Ana Reyna</h1>
+<h1 align="center">Hola 👋, soy Ana Reyna</h1>
 
+<p align="center">
+  <b>DevOps Engineer · Infraestructura en AWS · Fintech</b><br>
 
-- 📫 How to reach me **anamreynar@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/anareynar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anareynar" height="30" width="40" /></a>
 </p>
 
+---
+
+### 🚀 Lo que hago
+
+Soy DevOps engineer en una fintech en México, donde estoy a cargo de la infraestructura de la plataforma. Me dedico a que los sistemas en producción sean **confiables, seguros y costeables**:
+
+- ☁️ **Arquitectura en AWS** e infraestructura como código con Terraform
+- 🔐 **Seguridad y costos** en la nube
+- 📈 **Observabilidad y alertas** para detectar problemas antes que los usuarios
+- 🚨 **Respuesta a incidentes** en producción
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ana-reyna&layout=compact)](https://github.com/ana-reyna/github-readme-stats)
+### 🛠️ Tecnologías
 
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![New Relic](https://img.shields.io/badge/New_Relic-008C99?style=for-the-badge&logo=newrelic&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
+### 📫 Conectemos
 
-<!---
-Ana-Reyna/Ana-Reyna is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anareyna)
+[![Correo](https://img.shields.io/badge/Correo-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anamreynar@gmail.com)
